@@ -32,7 +32,7 @@ Täällä GitHubissa julkaisen projekteja, jotka liittyvät:
 
 ## 📁 Projektini
 
-### 🔹 **C++ harjoitukset (32 kpl)**  
+### 🔹 **C++ harjoitukset**  
 Kattava kokoelma ohjelmointikurssin harjoituksia:  
 → *[Linkki repositorioon](https://github.com/viljami-dev/cpp-harjoitukset)*
 
